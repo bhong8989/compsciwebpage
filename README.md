@@ -7,10 +7,13 @@ I hope you like it!
 ### Introduction
 
 **Name:** Benjamin Hong
+
 **School:** East Brunswick High School
+
 **Grade(2019-2020):** 11
+
 **Picture:**
-![Image](/Users/bh/Desktop/Pictures)
+![Image](bh$ /Users/bh/Desktop/Pictures/Screen\ Shot\ 2020-05-21\ at\ 9.51.53\ AM.png)
 
 ```markdown
 Syntax highlighted code block
