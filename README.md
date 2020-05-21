@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Ben's Website
 
-You can use the [editor on GitHub](https://github.com/bhong8989/compsciwebpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This website was made for Mr. Cohen's AP Computer Science A class.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hope you like it!
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Name:** Benjamin Hong
+**School:** East Brunswick High School
+**Grade(2019-2020):** 11
+**Picture:**
+![Image](/Users/bh/Desktop/Pictures)
 
 ```markdown
 Syntax highlighted code block
