@@ -13,7 +13,7 @@ I hope you like it!
 **Grade(2019-2020):** 11
 
 **Picture:**
-![Image](bh$ /Users/bh/Desktop/Pictures/Screen\ Shot\ 2020-05-21\ at\ 9.51.53\ AM.png)
+![Image](https://user-images.githubusercontent.com/65523909/82566577-1f1b7600-9b4a-11ea-9834-7e29bd55f1fe.png)
 
 ```markdown
 Syntax highlighted code block
